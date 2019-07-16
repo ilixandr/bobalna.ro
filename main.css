@@ -1,0 +1,9 @@
+.fa {
+    display: inline-block;
+}
+.input-label-absolute {
+    position: relative;
+}
+.input-label-absolute-left {
+    left: .7rem;
+}
